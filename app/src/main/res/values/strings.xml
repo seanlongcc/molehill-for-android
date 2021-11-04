@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Molehill_Android</string>
+    <string name="app_name">Molehill for Android</string>
+    <string name="gather_data">Gather Data</string>
 </resources>
